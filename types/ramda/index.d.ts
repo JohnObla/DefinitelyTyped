@@ -34,7 +34,7 @@
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 4.2
 
-type AnyFn = (...args: any[]) => any;
+export type AnyFn = (...args: any[]) => any;
 
 // NOTE: Example doesn't work with current level of support
 /**
