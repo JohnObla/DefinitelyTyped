@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-1. [What is this?](#what-is-this?)
-1. [Why would this be useful?](#why-would-this-be-useful?)
+1. [What is this?](#what-is-this)
+1. [Why would this be useful?](#why-would-this-be-useful)
 1. [How do I use this?](#how-do-i-use-this)
 
 ## What is this?
